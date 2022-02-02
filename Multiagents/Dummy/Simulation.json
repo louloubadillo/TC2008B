@@ -1,9 +1,9 @@
 {
-    "vechicles":[
+    "vehicles":[
     {
-      "posX" : 0,
-      "posY" : 0,
-      "posZ" : 0,
+      "posX" : -4,
+      "posY" : 0.5,
+      "posZ" : 1,
       "direction" : 0,
       "speed" : 50,
       "priority" : true
