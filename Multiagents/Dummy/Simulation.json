@@ -1,5 +1,5 @@
 {
-    "vehicles":[
+    "Vehicles":[
     {
       "posX" : -4,
       "posY" : 0.5,
@@ -17,7 +17,7 @@
       "priority" : false
     }
     ],
-    "lights":[
+    "Lights":[
         {
         "color": 1, 
         "id": 0
