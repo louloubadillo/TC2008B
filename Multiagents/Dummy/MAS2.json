@@ -1,0 +1,716 @@
+{"steps": [{"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}, {"vehicles":[{"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": true},
+    {"id": 5, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 6, "posX": 3.2,
+    "posY": 0, "posZ": 0, "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 4.6, "posY": 0, "posZ": 0,
+    "direction": 0, "speed": 50, "priority": false}, {"id": 7, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 8, "posX": 1.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 9, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 10, "posX": 4.6,
+    "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false}, {"id": 11, "posX": 6.0, "posY": 0, "posZ": 0,
+    "direction": 1, "speed": 50, "priority": false}, {"id": 12, "posX": 7.4, "posY": 0, "posZ": 0, "direction": 1, "speed":
+    50, "priority": false}, {"id": 13, "posX": 8.8, "posY": 0, "posZ": 0, "direction": 1, "speed": 50, "priority": false},
+    {"id": 1, "posX": 0.4, "posY": 0, "posZ": 0, "direction": 2, "speed": 50, "priority": false}, {"id": 1, "posX": 0.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 2, "posX": 1.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 3, "posX": 3.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}, {"id": 4, "posX": 4.6, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false},
+    {"id": 5, "posX": 6.0, "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 6, "posX": 7.4,
+    "posY": 0, "posZ": 0, "direction": 3, "speed": 50, "priority": false}, {"id": 7, "posX": 8.8, "posY": 0, "posZ": 0,
+    "direction": 3, "speed": 50, "priority": false}, {"id": 8, "posX": 10.2, "posY": 0, "posZ": 0, "direction": 3, "speed":
+    50, "priority": false}], "lights":[{"color": 1, "id": 0}, {"color": 1, "id": 1}, {"color": 0, "id": 2}, {"color": 0,
+    "id": 3}]}]}
